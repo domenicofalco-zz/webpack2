@@ -1,5 +1,5 @@
 # webpack2
-playing around with webpack 2 configuration
+playing around with webpack 2 configuration: chunks / vendor / code splitting
 <br><br>
 
 1) npm install<br>
